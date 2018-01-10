@@ -1,0 +1,19 @@
+body {
+  background-color: red;
+  }
+
+nav {
+border: medium dashed green;
+}
+
+.banner {
+  border: 1px solid red;
+}
+
+.container {
+  border: 1px solid green;
+}
+
+footer {
+  border: 1px solid blue;
+}
